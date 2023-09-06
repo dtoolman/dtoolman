@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dtoolman
-- 👀 I’m interested in ... python, System Reliability (SRE), automation, AI/ML analysis, data science etc.
-- 🌱 I’m currently learning ... AWS
-- 💞️ I’m looking to collaborate on ... startup, VC projects, incubation projects
+- 👀 I’m interested in ... Platform & Systems Reliability Engineering (SRE), Python & AI/ML analysis, data sciences etc.
+- 🌱 I’m currently learning ... Python with ChatGPT
+- 💞️ I’m looking to collaborate on ... startup, VC projects, incubation projects etc.
 - 📫 How to reach me ... dan.toolman@gmail.com
 
 <!---
